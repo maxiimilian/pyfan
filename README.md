@@ -1,2 +1,4 @@
-# Python base fan controll (for Linux)
+# Python base fan control (for Linux)
+
+
 
